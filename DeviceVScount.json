@@ -1,0 +1,2489 @@
+{
+    "list":[
+		{
+			"sum(Hourly_Flow)" : 16808,
+			"Description" : "Prince St SB @ The Grove",
+			"Count_Device_ID" : 1
+		},
+		{
+			"sum(Hourly_Flow)" : 6552,
+			"Description" : "The Grove WB Ln1 @ Prince St",
+			"Count_Device_ID" : 2
+		},
+		{
+			"sum(Hourly_Flow)" : 16752,
+			"Description" : "The Grove WB Ln2 @ Prince St",
+			"Count_Device_ID" : 4
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Prince St NB @ The Grove",
+			"Count_Device_ID" : 5
+		},
+		{
+			"sum(Hourly_Flow)" : 6512,
+			"Description" : "Prince St NB L1 @ King St",
+			"Count_Device_ID" : 6
+		},
+		{
+			"sum(Hourly_Flow)" : 8616,
+			"Description" : "Prince St NB L2 @ King St",
+			"Count_Device_ID" : 8
+		},
+		{
+			"sum(Hourly_Flow)" : 14120,
+			"Description" : "Broad Quay SB @ Prince St",
+			"Count_Device_ID" : 9
+		},
+		{
+			"sum(Hourly_Flow)" : 8376,
+			"Description" : "Marsh St SB @ Prince St",
+			"Count_Device_ID" : 10
+		},
+		{
+			"sum(Hourly_Flow)" : 15000,
+			"Description" : "Prince St SB @ King St",
+			"Count_Device_ID" : 11
+		},
+		{
+			"sum(Hourly_Flow)" : 15240,
+			"Description" : "Broad Quay NB @ Prince St",
+			"Count_Device_ID" : 12
+		},
+		{
+			"sum(Hourly_Flow)" : 7408,
+			"Description" : "Marsh St NB @ Prince St",
+			"Count_Device_ID" : 13
+		},
+		{
+			"sum(Hourly_Flow)" : 18160,
+			"Description" : "High St @ Bristol Bridge NB",
+			"Count_Device_ID" : 14
+		},
+		{
+			"sum(Hourly_Flow)" : 13120,
+			"Description" : "High St @ BristolBridge SB",
+			"Count_Device_ID" : 15
+		},
+		{
+			"sum(Hourly_Flow)" : 18520,
+			"Description" : "Baldwin St @ Bristol Bridge WB",
+			"Count_Device_ID" : 16
+		},
+		{
+			"sum(Hourly_Flow)" : 14040,
+			"Description" : "Baldwin St @ Q Charlotte St EB",
+			"Count_Device_ID" : 17
+		},
+		{
+			"sum(Hourly_Flow)" : 13264,
+			"Description" : "Baldwin St @ Q Charlotte St WB",
+			"Count_Device_ID" : 18
+		},
+		{
+			"sum(Hourly_Flow)" : 17600,
+			"Description" : "Victoria St @ Thomas St East WB",
+			"Count_Device_ID" : 19
+		},
+		{
+			"sum(Hourly_Flow)" : 37912,
+			"Description" : "Counterslip @ Victoria St SB",
+			"Count_Device_ID" : 21
+		},
+		{
+			"sum(Hourly_Flow)" : 35200,
+			"Description" : "Victoria St @ Counterslip WB",
+			"Count_Device_ID" : 22
+		},
+		{
+			"sum(Hourly_Flow)" : 24800,
+			"Description" : "Counterslip @ Victoria St NB",
+			"Count_Device_ID" : 23
+		},
+		{
+			"sum(Hourly_Flow)" : 15176,
+			"Description" : "Baldwin St WB @ Marsh Street",
+			"Count_Device_ID" : 24
+		},
+		{
+			"sum(Hourly_Flow)" : 23712,
+			"Description" : "Baldwin St EB @ Marsh St",
+			"Count_Device_ID" : 25
+		},
+		{
+			"sum(Hourly_Flow)" : 15432,
+			"Description" : "Baldwin St EB @ Centre/ Link Rd",
+			"Count_Device_ID" : 26
+		},
+		{
+			"sum(Hourly_Flow)" : 17936,
+			"Description" : "Baldwin St @ St Stevens St WB",
+			"Count_Device_ID" : 27
+		},
+		{
+			"sum(Hourly_Flow)" : 16576,
+			"Description" : "Baldwin St @ St Stevens St EB",
+			"Count_Device_ID" : 28
+		},
+		{
+			"sum(Hourly_Flow)" : 8,
+			"Description" : "Marsh St NB @ Baldwin St",
+			"Count_Device_ID" : 29
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Marsh St SB @ Baldwin St",
+			"Count_Device_ID" : 30
+		},
+		{
+			"sum(Hourly_Flow)" : 23720,
+			"Description" : "The Grove WB @ Grove Ave",
+			"Count_Device_ID" : 33
+		},
+		{
+			"sum(Hourly_Flow)" : 71768,
+			"Description" : "",
+			"Count_Device_ID" : 34
+		},
+		{
+			"sum(Hourly_Flow)" : 88456,
+			"Description" : "Colston Ave NB @ Zed Alley",
+			"Count_Device_ID" : 36
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Colston Ave SB L1 @ Zed Alley",
+			"Count_Device_ID" : 37
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Colston Ave SB L2 @ Zed Alley",
+			"Count_Device_ID" : 39
+		},
+		{
+			"sum(Hourly_Flow)" : 14552,
+			"Description" : "Prince St NB @ Farrs Ln",
+			"Count_Device_ID" : 40
+		},
+		{
+			"sum(Hourly_Flow)" : 38584,
+			"Description" : "College Green @ Anchor Rd SB",
+			"Count_Device_ID" : 41
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Canons Rd @ St Augustines Pde OB",
+			"Count_Device_ID" : 42
+		},
+		{
+			"sum(Hourly_Flow)" : 34528,
+			"Description" : "College Green @ Anchor Rd NB",
+			"Count_Device_ID" : 43
+		},
+		{
+			"sum(Hourly_Flow)" : 40776,
+			"Description" : "Park St IB @ Unity St",
+			"Count_Device_ID" : 44
+		},
+		{
+			"sum(Hourly_Flow)" : 53280,
+			"Description" : "Anchor Rd @ Canons Road Ped OB",
+			"Count_Device_ID" : 45
+		},
+		{
+			"sum(Hourly_Flow)" : 11384,
+			"Description" : "Anchor Rd @Canon's Rd Ped IB L1",
+			"Count_Device_ID" : 46
+		},
+		{
+			"sum(Hourly_Flow)" : 49864,
+			"Description" : "Anchor Rd @Canon's Rd Ped IB L2",
+			"Count_Device_ID" : 48
+		},
+		{
+			"sum(Hourly_Flow)" : 53032,
+			"Description" : "AnchorRd @Canon'sRd Ped OB (MAG)",
+			"Count_Device_ID" : 49
+		},
+		{
+			"sum(Hourly_Flow)" : 3272,
+			"Description" : "AnchorRd @Canon'sRd Ped IB (MAG)  L1",
+			"Count_Device_ID" : 50
+		},
+		{
+			"sum(Hourly_Flow)" : 46368,
+			"Description" : "AnchorRd @Canon'sRd Ped IB (MAG)  L2",
+			"Count_Device_ID" : 52
+		},
+		{
+			"sum(Hourly_Flow)" : 23352,
+			"Description" : "Broad Quay NB @ City Centre",
+			"Count_Device_ID" : 53
+		},
+		{
+			"sum(Hourly_Flow)" : 19856,
+			"Description" : "Broad Quay SB @ City Centre",
+			"Count_Device_ID" : 54
+		},
+		{
+			"sum(Hourly_Flow)" : 18112,
+			"Description" : "Anchor Rd @ Explore Lane OB",
+			"Count_Device_ID" : 55
+		},
+		{
+			"sum(Hourly_Flow)" : 17888,
+			"Description" : "Anchor Rd @ Explore lane IB",
+			"Count_Device_ID" : 56
+		},
+		{
+			"sum(Hourly_Flow)" : 3720,
+			"Description" : "Explore Lane Left Turn",
+			"Count_Device_ID" : 57
+		},
+		{
+			"sum(Hourly_Flow)" : 2720,
+			"Description" : "Explore Lane Right Turn",
+			"Count_Device_ID" : 58
+		},
+		{
+			"sum(Hourly_Flow)" : 1800,
+			"Description" : "Anchor Rd IB @ Explore Lane",
+			"Count_Device_ID" : 59
+		},
+		{
+			"sum(Hourly_Flow)" : 23728,
+			"Description" : "Union St WB @ Haymarket",
+			"Count_Device_ID" : 61
+		},
+		{
+			"sum(Hourly_Flow)" : 15304,
+			"Description" : "Lower Maudlin St WB @Lewins Mead",
+			"Count_Device_ID" : 62
+		},
+		{
+			"sum(Hourly_Flow)" : 5304,
+			"Description" : "",
+			"Count_Device_ID" : 64
+		},
+		{
+			"sum(Hourly_Flow)" : 48688,
+			"Description" : "",
+			"Count_Device_ID" : 65
+		},
+		{
+			"sum(Hourly_Flow)" : 8360,
+			"Description" : "",
+			"Count_Device_ID" : 67
+		},
+		{
+			"sum(Hourly_Flow)" : 53328,
+			"Description" : "",
+			"Count_Device_ID" : 68
+		},
+		{
+			"sum(Hourly_Flow)" : 4720,
+			"Description" : "",
+			"Count_Device_ID" : 69
+		},
+		{
+			"sum(Hourly_Flow)" : 52360,
+			"Description" : "",
+			"Count_Device_ID" : 70
+		},
+		{
+			"sum(Hourly_Flow)" : 83208,
+			"Description" : "Hotwell Rd @ Jacob Wells L2 IB",
+			"Count_Device_ID" : 72
+		},
+		{
+			"sum(Hourly_Flow)" : 6816,
+			"Description" : "Hotwell Rd @ Jacob Wells L1 IB",
+			"Count_Device_ID" : 74
+		},
+		{
+			"sum(Hourly_Flow)" : 39720,
+			"Description" : "Jacob Wells Rd NB @ Hotwell Rd",
+			"Count_Device_ID" : 75
+		},
+		{
+			"sum(Hourly_Flow)" : 55240,
+			"Description" : "Anchor Rd IB @ Jacob Wells Rd",
+			"Count_Device_ID" : 76
+		},
+		{
+			"sum(Hourly_Flow)" : 98792,
+			"Description" : "Hotwell Rd OB L2 @ Jacob Wells",
+			"Count_Device_ID" : 77
+		},
+		{
+			"sum(Hourly_Flow)" : 8040,
+			"Description" : "Hotwell Rd OB L1 @ Jacob Wells",
+			"Count_Device_ID" : 79
+		},
+		{
+			"sum(Hourly_Flow)" : 36392,
+			"Description" : "Jacob Wells Rd SB @ Hotwell Rd",
+			"Count_Device_ID" : 80
+		},
+		{
+			"sum(Hourly_Flow)" : 49448,
+			"Description" : "Anchor Rd IB/Jacob Wells Aprch",
+			"Count_Device_ID" : 81
+		},
+		{
+			"sum(Hourly_Flow)" : 98384,
+			"Description" : "Bond St WB L3 @ Pritchard St",
+			"Count_Device_ID" : 82
+		},
+		{
+			"sum(Hourly_Flow)" : 95064,
+			"Description" : "Bond St WB L2 @ Pritchard St",
+			"Count_Device_ID" : 84
+		},
+		{
+			"sum(Hourly_Flow)" : 19968,
+			"Description" : "Bond St WB L1 @ Pritchard St",
+			"Count_Device_ID" : 85
+		},
+		{
+			"sum(Hourly_Flow)" : 16440,
+			"Description" : "Pritchard St SB @ Bond St",
+			"Count_Device_ID" : 86
+		},
+		{
+			"sum(Hourly_Flow)" : 68816,
+			"Description" : "Stokes Croft IB @ Moon St",
+			"Count_Device_ID" : 88
+		},
+		{
+			"sum(Hourly_Flow)" : 48624,
+			"Description" : "Newfoundland Circus IB L1 @ M32",
+			"Count_Device_ID" : 90
+		},
+		{
+			"sum(Hourly_Flow)" : 139752,
+			"Description" : "Newfoundland Circus IB L2 @ M32",
+			"Count_Device_ID" : 92
+		},
+		{
+			"sum(Hourly_Flow)" : 18792,
+			"Description" : "Newfoundland Circus IB L3 @ M32",
+			"Count_Device_ID" : 93
+		},
+		{
+			"sum(Hourly_Flow)" : 124832,
+			"Description" : "Newfoundland Circus OB L1 @ M32",
+			"Count_Device_ID" : 94
+		},
+		{
+			"sum(Hourly_Flow)" : 110800,
+			"Description" : "Newfoundland Circus OB L2 @ M32",
+			"Count_Device_ID" : 96
+		},
+		{
+			"sum(Hourly_Flow)" : 38280,
+			"Description" : "Houlton St NB @ Newfoundland/M32",
+			"Count_Device_ID" : 97
+		},
+		{
+			"sum(Hourly_Flow)" : 70712,
+			"Description" : "Bond St EB L1 @ Gloucester St",
+			"Count_Device_ID" : 98
+		},
+		{
+			"sum(Hourly_Flow)" : 54432,
+			"Description" : "Bond St EB L2 @ Gloucester St",
+			"Count_Device_ID" : 100
+		},
+		{
+			"sum(Hourly_Flow)" : 78568,
+			"Description" : "Bond St EB L3 @ Gloucester St",
+			"Count_Device_ID" : 101
+		},
+		{
+			"sum(Hourly_Flow)" : 54280,
+			"Description" : "Temple Way SB L1 @ Old Market",
+			"Count_Device_ID" : 105
+		},
+		{
+			"sum(Hourly_Flow)" : 64664,
+			"Description" : "Temple Way SB L2 @ Old Market",
+			"Count_Device_ID" : 107
+		},
+		{
+			"sum(Hourly_Flow)" : 34712,
+			"Description" : "Temple Way SB Off Slip @ Old Mkt",
+			"Count_Device_ID" : 108
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Easton Way NB @ Pennywell Rd",
+			"Count_Device_ID" : 109
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Pennywell Rd EB @ Easton Way",
+			"Count_Device_ID" : 110
+		},
+		{
+			"sum(Hourly_Flow)" : 104312,
+			"Description" : "Lwr Ashley Rd WB @ M32 J3",
+			"Count_Device_ID" : 111
+		},
+		{
+			"sum(Hourly_Flow)" : 90368,
+			"Description" : "Lwr Ashley Rd EB @ Tudor Rd",
+			"Count_Device_ID" : 112
+		},
+		{
+			"sum(Hourly_Flow)" : 19032,
+			"Description" : "Easton Way EB Rt @ Stapleton Rd",
+			"Count_Device_ID" : 113
+		},
+		{
+			"sum(Hourly_Flow)" : 4104,
+			"Description" : "Stapleton Rd IB L2 @ Easton Way",
+			"Count_Device_ID" : 114
+		},
+		{
+			"sum(Hourly_Flow)" : 25000,
+			"Description" : "Stapleton Rd IB L1 @ Easton Way",
+			"Count_Device_ID" : 116
+		},
+		{
+			"sum(Hourly_Flow)" : 18056,
+			"Description" : "Easton Way WB Rt @ Stapleton Rd",
+			"Count_Device_ID" : 117
+		},
+		{
+			"sum(Hourly_Flow)" : 8328,
+			"Description" : "Stapleton Rd L2 OB @ Easton Way",
+			"Count_Device_ID" : 118
+		},
+		{
+			"sum(Hourly_Flow)" : 12392,
+			"Description" : "Stapleton Rd L1 OB @ Easton Way",
+			"Count_Device_ID" : 120
+		},
+		{
+			"sum(Hourly_Flow)" : 90080,
+			"Description" : "Lwr Ashley Rd EB @ Tudor Rd",
+			"Count_Device_ID" : 121
+		},
+		{
+			"sum(Hourly_Flow)" : 107664,
+			"Description" : "Lwr Ashley Rd WB @ Tudor Rd",
+			"Count_Device_ID" : 122
+		},
+		{
+			"sum(Hourly_Flow)" : 3424,
+			"Description" : "Newgate @ Broadweir/Fairfax",
+			"Count_Device_ID" : 123
+		},
+		{
+			"sum(Hourly_Flow)" : 36656,
+			"Description" : "Broadweir Ln 1 @ Newgate/Fairfax",
+			"Count_Device_ID" : 124
+		},
+		{
+			"sum(Hourly_Flow)" : 12680,
+			"Description" : "Broadweir Ln 2 @ Newgate/Fairfax",
+			"Count_Device_ID" : 126
+		},
+		{
+			"sum(Hourly_Flow)" : 10400,
+			"Description" : "Fairfax Ln 2 @ Broadweir/Newgate",
+			"Count_Device_ID" : 127
+		},
+		{
+			"sum(Hourly_Flow)" : 14192,
+			"Description" : "Fairfax Ln 1 @ Broadweir/Newgate",
+			"Count_Device_ID" : 129
+		},
+		{
+			"sum(Hourly_Flow)" : 35968,
+			"Description" : "Broad Weir WB @ Penn St/Castle",
+			"Count_Device_ID" : 130
+		},
+		{
+			"sum(Hourly_Flow)" : 35592,
+			"Description" : "Lwr Castle St SB L2 @ Broadweir",
+			"Count_Device_ID" : 131
+		},
+		{
+			"sum(Hourly_Flow)" : 10912,
+			"Description" : "Lwr Castle St SB L1 @ Broadweir",
+			"Count_Device_ID" : 133
+		},
+		{
+			"sum(Hourly_Flow)" : 33744,
+			"Description" : "Lwr Castle St WB @ Tower Hill",
+			"Count_Device_ID" : 136
+		},
+		{
+			"sum(Hourly_Flow)" : 16,
+			"Description" : "Old Market St IB @ West St",
+			"Count_Device_ID" : 137
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Clarence Rd OB @ Trinity Rd",
+			"Count_Device_ID" : 139
+		},
+		{
+			"sum(Hourly_Flow)" : 84416,
+			"Description" : "Easton Way SB L1 @ Easton Rd",
+			"Count_Device_ID" : 140
+		},
+		{
+			"sum(Hourly_Flow)" : 76160,
+			"Description" : "Easton Way SB L2 @ Easton Rd",
+			"Count_Device_ID" : 142
+		},
+		{
+			"sum(Hourly_Flow)" : 34600,
+			"Description" : "Easton Rd WB @ Easton Way",
+			"Count_Device_ID" : 143
+		},
+		{
+			"sum(Hourly_Flow)" : 37136,
+			"Description" : "Easton Rd WB @ Poutney Drive",
+			"Count_Device_ID" : 144
+		},
+		{
+			"sum(Hourly_Flow)" : 34680,
+			"Description" : "Easton Rd WB @ Easton Rd Ped",
+			"Count_Device_ID" : 145
+		},
+		{
+			"sum(Hourly_Flow)" : 4568,
+			"Description" : "Clarence Rd IB L3 @ Lawrence Hil",
+			"Count_Device_ID" : 147
+		},
+		{
+			"sum(Hourly_Flow)" : 41480,
+			"Description" : "Clarence Rd IB L2 @ Lawrence Hil",
+			"Count_Device_ID" : 149
+		},
+		{
+			"sum(Hourly_Flow)" : 4152,
+			"Description" : "Clarence Rd IB L1 @ Lawrence Hil",
+			"Count_Device_ID" : 150
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Croydon St IB L2 @ Lawrence Hill",
+			"Count_Device_ID" : 153
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Old Market St OB @ Old Mkt RAB",
+			"Count_Device_ID" : 154
+		},
+		{
+			"sum(Hourly_Flow)" : 14584,
+			"Description" : "OldMarketSt Ln1 @ Old Mkt RAB",
+			"Count_Device_ID" : 155
+		},
+		{
+			"sum(Hourly_Flow)" : 38528,
+			"Description" : "OldMarketSt Ln2 @ Old Mkt RAB",
+			"Count_Device_ID" : 157
+		},
+		{
+			"sum(Hourly_Flow)" : 37712,
+			"Description" : "Temple Way SB Ped @ Old Mkt RAB",
+			"Count_Device_ID" : 158
+		},
+		{
+			"sum(Hourly_Flow)" : 51352,
+			"Description" : "Temple Way NB @ Old Mkt RAB",
+			"Count_Device_ID" : 159
+		},
+		{
+			"sum(Hourly_Flow)" : 26888,
+			"Description" : "Castle St LN1 @ Old Mkt RAB",
+			"Count_Device_ID" : 160
+		},
+		{
+			"sum(Hourly_Flow)" : 19168,
+			"Description" : "Castle St LN2 @ Old Mkt RAB",
+			"Count_Device_ID" : 162
+		},
+		{
+			"sum(Hourly_Flow)" : 63288,
+			"Description" : "Bond St South NB LN1 @ OldMktRAB",
+			"Count_Device_ID" : 163
+		},
+		{
+			"sum(Hourly_Flow)" : 21096,
+			"Description" : "Bond St South NB LN2 @ OldMktRAB",
+			"Count_Device_ID" : 165
+		},
+		{
+			"sum(Hourly_Flow)" : 48248,
+			"Description" : "Redcliffe Way Ln1 after bus gate",
+			"Count_Device_ID" : 171
+		},
+		{
+			"sum(Hourly_Flow)" : 14328,
+			"Description" : "Redcliffe Way Ln2 after bus gate",
+			"Count_Device_ID" : 172
+		},
+		{
+			"sum(Hourly_Flow)" : 880,
+			"Description" : "Redcliffe Way Ln1 befor bus gate",
+			"Count_Device_ID" : 173
+		},
+		{
+			"sum(Hourly_Flow)" : 38776,
+			"Description" : "Redcliffe Way Ln2 befor bus gate",
+			"Count_Device_ID" : 174
+		},
+		{
+			"sum(Hourly_Flow)" : 4520,
+			"Description" : "Friary Ln2 WB @ Temple Circus",
+			"Count_Device_ID" : 175
+		},
+		{
+			"sum(Hourly_Flow)" : 5864,
+			"Description" : "Friary Ln1 WB @ Temple Circus",
+			"Count_Device_ID" : 176
+		},
+		{
+			"sum(Hourly_Flow)" : 74120,
+			"Description" : "Temple Gate Ln1 SB @ Temple Circus",
+			"Count_Device_ID" : 177
+		},
+		{
+			"sum(Hourly_Flow)" : 97984,
+			"Description" : "Temple Gate Ln2 SB @ Temple Circus",
+			"Count_Device_ID" : 178
+		},
+		{
+			"sum(Hourly_Flow)" : 2576,
+			"Description" : "Victoria St Ln1 NB @ Temple Circus",
+			"Count_Device_ID" : 179
+		},
+		{
+			"sum(Hourly_Flow)" : 12440,
+			"Description" : "Victoria St Ln2 SB @ Temple Circus",
+			"Count_Device_ID" : 180
+		},
+		{
+			"sum(Hourly_Flow)" : 6408,
+			"Description" : "Victoria St Ln3 SB @ Temple Circus",
+			"Count_Device_ID" : 181
+		},
+		{
+			"sum(Hourly_Flow)" : 96792,
+			"Description" : "Temple Way Ln1 NB @ Temple Circus",
+			"Count_Device_ID" : 182
+		},
+		{
+			"sum(Hourly_Flow)" : 71880,
+			"Description" : "Temple Way Ln2 NB @ Temple Circus",
+			"Count_Device_ID" : 183
+		},
+		{
+			"sum(Hourly_Flow)" : 108408,
+			"Description" : "Temple Gate Ln1 NB @ Brunel Mile",
+			"Count_Device_ID" : 184
+		},
+		{
+			"sum(Hourly_Flow)" : 58776,
+			"Description" : "Temple Gate Ln2 NB @ Brunel Mile",
+			"Count_Device_ID" : 185
+		},
+		{
+			"sum(Hourly_Flow)" : 63224,
+			"Description" : "Temple Gate Ln3 SB @Station Approach",
+			"Count_Device_ID" : 186
+		},
+		{
+			"sum(Hourly_Flow)" : 34392,
+			"Description" : "Temple Gate Ln1 NB @ Station Approach",
+			"Count_Device_ID" : 187
+		},
+		{
+			"sum(Hourly_Flow)" : 78728,
+			"Description" : "Temple Gate Ln2 NB @ Station Approach",
+			"Count_Device_ID" : 188
+		},
+		{
+			"sum(Hourly_Flow)" : 42000,
+			"Description" : "Temple Gate Ln3 NB @ Station Approach",
+			"Count_Device_ID" : 189
+		},
+		{
+			"sum(Hourly_Flow)" : 75968,
+			"Description" : "Temple Gate Ln1 SB @ RedcliffeWay",
+			"Count_Device_ID" : 190
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Temple Gate Ln2 SB @ RedcliffeWay",
+			"Count_Device_ID" : 191
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Temple Gate Ln3 SB @ RedcliffeWay",
+			"Count_Device_ID" : 192
+		},
+		{
+			"sum(Hourly_Flow)" : 14616,
+			"Description" : "Station Approach @ Temple Gate",
+			"Count_Device_ID" : 193
+		},
+		{
+			"sum(Hourly_Flow)" : 52224,
+			"Description" : "Temple Gate Ln1 SB @ Station Approach",
+			"Count_Device_ID" : 194
+		},
+		{
+			"sum(Hourly_Flow)" : 69680,
+			"Description" : "Temple Gate Ln2 SB @ Station Approach",
+			"Count_Device_ID" : 195
+		},
+		{
+			"sum(Hourly_Flow)" : 47472,
+			"Description" : "Temple Gate SB L1 @ Bath Bridge",
+			"Count_Device_ID" : 196
+		},
+		{
+			"sum(Hourly_Flow)" : 56760,
+			"Description" : "Temple Gate SB L2 @ Bath Bridge",
+			"Count_Device_ID" : 198
+		},
+		{
+			"sum(Hourly_Flow)" : 73032,
+			"Description" : "Temple Gate SB L3 @ Bath Bridge",
+			"Count_Device_ID" : 199
+		},
+		{
+			"sum(Hourly_Flow)" : 52664,
+			"Description" : "BathBrid UTurn L1 @ Temple Gate",
+			"Count_Device_ID" : 200
+		},
+		{
+			"sum(Hourly_Flow)" : 38744,
+			"Description" : "BathBrid UTurn L2 @ Temple Gate",
+			"Count_Device_ID" : 202
+		},
+		{
+			"sum(Hourly_Flow)" : 58424,
+			"Description" : "Clarence Rd @ Bath Bridge",
+			"Count_Device_ID" : 203
+		},
+		{
+			"sum(Hourly_Flow)" : 56496,
+			"Description" : "Bath Rd OB L1 @ Bath Bridge",
+			"Count_Device_ID" : 204
+		},
+		{
+			"sum(Hourly_Flow)" : 89152,
+			"Description" : "Bath Rd OB L2 @ Bath Bridge",
+			"Count_Device_ID" : 206
+		},
+		{
+			"sum(Hourly_Flow)" : 59144,
+			"Description" : "Bath Rd IB L1 @ York Rd",
+			"Count_Device_ID" : 207
+		},
+		{
+			"sum(Hourly_Flow)" : 43304,
+			"Description" : "Bath Rd IB L2 @ York Rd",
+			"Count_Device_ID" : 209
+		},
+		{
+			"sum(Hourly_Flow)" : 63432,
+			"Description" : "Bath Rd IB L3 @ York Rd",
+			"Count_Device_ID" : 210
+		},
+		{
+			"sum(Hourly_Flow)" : 98416,
+			"Description" : "York Rd WB @ Bath Bridge",
+			"Count_Device_ID" : 211
+		},
+		{
+			"sum(Hourly_Flow)" : 18680,
+			"Description" : "York Rd EB L1 @ Bath Bridge",
+			"Count_Device_ID" : 212
+		},
+		{
+			"sum(Hourly_Flow)" : 19616,
+			"Description" : "York Rd EB L2 @ Bath Bridge",
+			"Count_Device_ID" : 214
+		},
+		{
+			"sum(Hourly_Flow)" : 68544,
+			"Description" : "Bath Bridge lane 1 @ York Road",
+			"Count_Device_ID" : 215
+		},
+		{
+			"sum(Hourly_Flow)" : 34056,
+			"Description" : "Old Mkt St SB Slip @ Temple Way",
+			"Count_Device_ID" : 216
+		},
+		{
+			"sum(Hourly_Flow)" : 62960,
+			"Description" : "Temple Way NB L1 @ Avon St",
+			"Count_Device_ID" : 219
+		},
+		{
+			"sum(Hourly_Flow)" : 104008,
+			"Description" : "Temple Way NB L2 @ Avon St",
+			"Count_Device_ID" : 221
+		},
+		{
+			"sum(Hourly_Flow)" : 8104,
+			"Description" : "Avon St WB @ Temple Way",
+			"Count_Device_ID" : 222
+		},
+		{
+			"sum(Hourly_Flow)" : 21272,
+			"Description" : "York Rd WB L1 @ St Lukes Rd",
+			"Count_Device_ID" : 225
+		},
+		{
+			"sum(Hourly_Flow)" : 83688,
+			"Description" : "York Rd WB L2 @ St Lukes Rd",
+			"Count_Device_ID" : 227
+		},
+		{
+			"sum(Hourly_Flow)" : 36536,
+			"Description" : "York Rd EB @ St Lukes Rd",
+			"Count_Device_ID" : 228
+		},
+		{
+			"sum(Hourly_Flow)" : 26288,
+			"Description" : "York Rd EB @ St Lukes Court",
+			"Count_Device_ID" : 229
+		},
+		{
+			"sum(Hourly_Flow)" : 31016,
+			"Description" : "St Lukes Rd SB @ York Rd",
+			"Count_Device_ID" : 230
+		},
+		{
+			"sum(Hourly_Flow)" : 33184,
+			"Description" : "St Lukes Rd NB @ York Rd",
+			"Count_Device_ID" : 231
+		},
+		{
+			"sum(Hourly_Flow)" : 2464,
+			"Description" : "Commercial Rd EB L1 @ Bed Bridge",
+			"Count_Device_ID" : 233
+		},
+		{
+			"sum(Hourly_Flow)" : 26384,
+			"Description" : "Commercial Rd EB L2 @ Bed Bridge",
+			"Count_Device_ID" : 235
+		},
+		{
+			"sum(Hourly_Flow)" : 35840,
+			"Description" : "Commercial Rd WB @ BedminsterRAB",
+			"Count_Device_ID" : 236
+		},
+		{
+			"sum(Hourly_Flow)" : 74128,
+			"Description" : "Coronation Rd IB @ St Johns Rd",
+			"Count_Device_ID" : 237
+		},
+		{
+			"sum(Hourly_Flow)" : 44232,
+			"Description" : "Coronation Rd WB L1 @ St Johns R",
+			"Count_Device_ID" : 238
+		},
+		{
+			"sum(Hourly_Flow)" : 71456,
+			"Description" : "Coronation Rd WB L2 @ St Johns R",
+			"Count_Device_ID" : 240
+		},
+		{
+			"sum(Hourly_Flow)" : 16920,
+			"Description" : "St Johns Rd NB @ Coronation Rd",
+			"Count_Device_ID" : 241
+		},
+		{
+			"sum(Hourly_Flow)" : 84024,
+			"Description" : "York Rd WB @ Whitehouse St",
+			"Count_Device_ID" : 243
+		},
+		{
+			"sum(Hourly_Flow)" : 125880,
+			"Description" : "Winterstoke Rd OB @Parson St Gty",
+			"Count_Device_ID" : 244
+		},
+		{
+			"sum(Hourly_Flow)" : 52056,
+			"Description" : "Bedminster Dw Rd L1 @Winterstoke",
+			"Count_Device_ID" : 248
+		},
+		{
+			"sum(Hourly_Flow)" : 102144,
+			"Description" : "Bedminster Dw Rd L2 @Winterstoke",
+			"Count_Device_ID" : 250
+		},
+		{
+			"sum(Hourly_Flow)" : 58944,
+			"Description" : "Bedminster Dw Rd L3 @Winterstoke",
+			"Count_Device_ID" : 251
+		},
+		{
+			"sum(Hourly_Flow)" : 27520,
+			"Description" : "Parson St NB L2 @ Bedminster Rd",
+			"Count_Device_ID" : 253
+		},
+		{
+			"sum(Hourly_Flow)" : 75416,
+			"Description" : "Parson St NB L1 @ Bedminster Rd",
+			"Count_Device_ID" : 255
+		},
+		{
+			"sum(Hourly_Flow)" : 82192,
+			"Description" : "Parson St OB L1 @ Bedminster Rd",
+			"Count_Device_ID" : 256
+		},
+		{
+			"sum(Hourly_Flow)" : 47304,
+			"Description" : "Parson St OB L2 @ Bedminster Rd",
+			"Count_Device_ID" : 258
+		},
+		{
+			"sum(Hourly_Flow)" : 34824,
+			"Description" : "A38 IB L1 @ Bedminster Rd",
+			"Count_Device_ID" : 260
+		},
+		{
+			"sum(Hourly_Flow)" : 55800,
+			"Description" : "A38 IB L2 @ Bedminster Rd",
+			"Count_Device_ID" : 262
+		},
+		{
+			"sum(Hourly_Flow)" : 58464,
+			"Description" : "Bedminster Dn Rd L2 @ Parson Gty",
+			"Count_Device_ID" : 263
+		},
+		{
+			"sum(Hourly_Flow)" : 121488,
+			"Description" : "Bedminster Dn Rd L1 @ Parson Gty",
+			"Count_Device_ID" : 265
+		},
+		{
+			"sum(Hourly_Flow)" : 14496,
+			"Description" : "Bedminster Rd WB L3 @ Parson Gty",
+			"Count_Device_ID" : 266
+		},
+		{
+			"sum(Hourly_Flow)" : 93264,
+			"Description" : "Bedminster Rd WB L2 @ Parson Gty",
+			"Count_Device_ID" : 268
+		},
+		{
+			"sum(Hourly_Flow)" : 79040,
+			"Description" : "Bedminster Rd WB L1 @ Parson Gty",
+			"Count_Device_ID" : 269
+		},
+		{
+			"sum(Hourly_Flow)" : 91912,
+			"Description" : "Hartcliffe Way SB @ Parson St",
+			"Count_Device_ID" : 272
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Hartcliffe Way NB @ Parson St",
+			"Count_Device_ID" : 273
+		},
+		{
+			"sum(Hourly_Flow)" : 105888,
+			"Description" : "Parson St NB @ Highbury Rd",
+			"Count_Device_ID" : 274
+		},
+		{
+			"sum(Hourly_Flow)" : 100488,
+			"Description" : "Parson St SB @ Highbury Rd",
+			"Count_Device_ID" : 275
+		},
+		{
+			"sum(Hourly_Flow)" : 87752,
+			"Description" : "Parson St SB @Parson St Stopline",
+			"Count_Device_ID" : 276
+		},
+		{
+			"sum(Hourly_Flow)" : 16368,
+			"Description" : "Parson St EB @ Hartcliffe Way",
+			"Count_Device_ID" : 277
+		},
+		{
+			"sum(Hourly_Flow)" : 16704,
+			"Description" : "Parson St EB @ Hartcliffe Way",
+			"Count_Device_ID" : 278
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Parson St WB @ Hartcliffe Way",
+			"Count_Device_ID" : 279
+		},
+		{
+			"sum(Hourly_Flow)" : 55160,
+			"Description" : "Perry Rd EB @ Colston St",
+			"Count_Device_ID" : 282
+		},
+		{
+			"sum(Hourly_Flow)" : 64104,
+			"Description" : "Perry Rd WB @ St Michaels Hill",
+			"Count_Device_ID" : 283
+		},
+		{
+			"sum(Hourly_Flow)" : 19360,
+			"Description" : "St Michaels Hill SB @ Perry Rd",
+			"Count_Device_ID" : 284
+		},
+		{
+			"sum(Hourly_Flow)" : 110920,
+			"Description" : "Upper Maudlin St WB@ Lwr Maudlin",
+			"Count_Device_ID" : 285
+		},
+		{
+			"sum(Hourly_Flow)" : 118656,
+			"Description" : "Queens Rd OB After Park St",
+			"Count_Device_ID" : 286
+		},
+		{
+			"sum(Hourly_Flow)" : 68520,
+			"Description" : "Queens Rd IB L1 @ University Rd",
+			"Count_Device_ID" : 287
+		},
+		{
+			"sum(Hourly_Flow)" : 51552,
+			"Description" : "Queens Rd IB L2 @ University Rd",
+			"Count_Device_ID" : 289
+		},
+		{
+			"sum(Hourly_Flow)" : 91264,
+			"Description" : "Marlborough St WB @ Dighton St",
+			"Count_Device_ID" : 291
+		},
+		{
+			"sum(Hourly_Flow)" : 28824,
+			"Description" : "Dighton St NB @ Marlborough St",
+			"Count_Device_ID" : 292
+		},
+		{
+			"sum(Hourly_Flow)" : 19144,
+			"Description" : "Berkeley Pl IB L1 @ Triangle Sth",
+			"Count_Device_ID" : 295
+		},
+		{
+			"sum(Hourly_Flow)" : 20072,
+			"Description" : "Berkeley Pl IB L2 @ Triangle Sth",
+			"Count_Device_ID" : 297
+		},
+		{
+			"sum(Hourly_Flow)" : 76552,
+			"Description" : "Triangle South Rt Turn @Berkeley",
+			"Count_Device_ID" : 298
+		},
+		{
+			"sum(Hourly_Flow)" : 37152,
+			"Description" : "Berkeley Pl SB @ Triangle South",
+			"Count_Device_ID" : 299
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Berkeley Pl NB @ Burton Court",
+			"Count_Device_ID" : 300
+		},
+		{
+			"sum(Hourly_Flow)" : 52368,
+			"Description" : "Stokes Croft IB @ City Rd",
+			"Count_Device_ID" : 302
+		},
+		{
+			"sum(Hourly_Flow)" : 40888,
+			"Description" : "Stokes Croft OB @ City Rd",
+			"Count_Device_ID" : 303
+		},
+		{
+			"sum(Hourly_Flow)" : 64400,
+			"Description" : "North St IB @ City Rd",
+			"Count_Device_ID" : 304
+		},
+		{
+			"sum(Hourly_Flow)" : 9216,
+			"Description" : "City Rd EB @ Stokes Croft",
+			"Count_Device_ID" : 305
+		},
+		{
+			"sum(Hourly_Flow)" : 63464,
+			"Description" : "Stokes Croft IB @ Ashley Rd",
+			"Count_Device_ID" : 306
+		},
+		{
+			"sum(Hourly_Flow)" : 54096,
+			"Description" : "Ashley Rd EB @ Cheltenham Rd",
+			"Count_Device_ID" : 307
+		},
+		{
+			"sum(Hourly_Flow)" : 80672,
+			"Description" : "Cheltenham Rd OB @ Ashley Rd",
+			"Count_Device_ID" : 308
+		},
+		{
+			"sum(Hourly_Flow)" : 80640,
+			"Description" : "Gloucester Rd OB @ Arley Hill",
+			"Count_Device_ID" : 309
+		},
+		{
+			"sum(Hourly_Flow)" : 96200,
+			"Description" : "Cheltenham Rd IB @ Arley Hill",
+			"Count_Device_ID" : 311
+		},
+		{
+			"sum(Hourly_Flow)" : 61800,
+			"Description" : "Gloucester Rd IB @ Winsley Rd",
+			"Count_Device_ID" : 312
+		},
+		{
+			"sum(Hourly_Flow)" : 73984,
+			"Description" : "Gloucester Rd OB @ Winsley Rd",
+			"Count_Device_ID" : 313
+		},
+		{
+			"sum(Hourly_Flow)" : 48072,
+			"Description" : "Gloucester Rd OB @ Ashley Dwn Rd",
+			"Count_Device_ID" : 314
+		},
+		{
+			"sum(Hourly_Flow)" : 62336,
+			"Description" : "Ashley Down Rd WB @ Glos Rd",
+			"Count_Device_ID" : 315
+		},
+		{
+			"sum(Hourly_Flow)" : 39376,
+			"Description" : "Ashley Down Rd EB @ Glos Rd",
+			"Count_Device_ID" : 316
+		},
+		{
+			"sum(Hourly_Flow)" : 82832,
+			"Description" : "Gloucester Rd IB @ Ashley Dwn Rd",
+			"Count_Device_ID" : 317
+		},
+		{
+			"sum(Hourly_Flow)" : 75024,
+			"Description" : "Cheltenham Rd OB @ Cotham Brow",
+			"Count_Device_ID" : 318
+		},
+		{
+			"sum(Hourly_Flow)" : 20128,
+			"Description" : "Cheltenham Rd IB RT@ Cotham Brow",
+			"Count_Device_ID" : 319
+		},
+		{
+			"sum(Hourly_Flow)" : 26744,
+			"Description" : "North Rd SB @ Cheltenham Rd",
+			"Count_Device_ID" : 320
+		},
+		{
+			"sum(Hourly_Flow)" : 60352,
+			"Description" : "Gloucester Rd IB @ Overton Rd",
+			"Count_Device_ID" : 321
+		},
+		{
+			"sum(Hourly_Flow)" : 56880,
+			"Description" : "Ashley Rd IB @ Brook Rd",
+			"Count_Device_ID" : 322
+		},
+		{
+			"sum(Hourly_Flow)" : 67160,
+			"Description" : "Westbury Rd IB Rt @Blackboy Hill",
+			"Count_Device_ID" : 323
+		},
+		{
+			"sum(Hourly_Flow)" : 70896,
+			"Description" : "Westbury Rd IB @ Blackboy Hill",
+			"Count_Device_ID" : 324
+		},
+		{
+			"sum(Hourly_Flow)" : 65632,
+			"Description" : "Westbury Rd IB Rt @ Cabstand Rd",
+			"Count_Device_ID" : 326
+		},
+		{
+			"sum(Hourly_Flow)" : 13112,
+			"Description" : "Stoke Rd IB @ Belgrave Rd",
+			"Count_Device_ID" : 327
+		},
+		{
+			"sum(Hourly_Flow)" : 63024,
+			"Description" : "Whiteladies Rd OB @ Apsley Rd",
+			"Count_Device_ID" : 328
+		},
+		{
+			"sum(Hourly_Flow)" : 74640,
+			"Description" : "Whiteladies Rd IB @ Apsley Rd",
+			"Count_Device_ID" : 329
+		},
+		{
+			"sum(Hourly_Flow)" : 60072,
+			"Description" : "Stapleton Rd OB @ St Marks Rd",
+			"Count_Device_ID" : 330
+		},
+		{
+			"sum(Hourly_Flow)" : 32280,
+			"Description" : "Stapleton Rd SB L2 @ Napier Rd",
+			"Count_Device_ID" : 331
+		},
+		{
+			"sum(Hourly_Flow)" : 61064,
+			"Description" : "Fishponds Rd OB @ Stapleton Rd",
+			"Count_Device_ID" : 332
+		},
+		{
+			"sum(Hourly_Flow)" : 32576,
+			"Description" : "Fishponds Rd IB @ Stapleton Rd",
+			"Count_Device_ID" : 333
+		},
+		{
+			"sum(Hourly_Flow)" : 56968,
+			"Description" : "Stapleton Rd IB @ Robertson Rd",
+			"Count_Device_ID" : 334
+		},
+		{
+			"sum(Hourly_Flow)" : 49600,
+			"Description" : "Stapleton Rd OB @ Robertson Rd",
+			"Count_Device_ID" : 335
+		},
+		{
+			"sum(Hourly_Flow)" : 34944,
+			"Description" : "Fishponds Rd IB @ East Park",
+			"Count_Device_ID" : 336
+		},
+		{
+			"sum(Hourly_Flow)" : 60248,
+			"Description" : "Fishponds Rd OB @ East Park",
+			"Count_Device_ID" : 337
+		},
+		{
+			"sum(Hourly_Flow)" : 30584,
+			"Description" : "Fishponds Rd IB @ Coombe Rd",
+			"Count_Device_ID" : 338
+		},
+		{
+			"sum(Hourly_Flow)" : 33736,
+			"Description" : "Fishponds Rd IB @ Muller Rd",
+			"Count_Device_ID" : 339
+		},
+		{
+			"sum(Hourly_Flow)" : 166696,
+			"Description" : "Muller Rd WB @ Fishponds Rd",
+			"Count_Device_ID" : 340
+		},
+		{
+			"sum(Hourly_Flow)" : 132216,
+			"Description" : "Muller Rd EB L1 @ Fishponds Rd",
+			"Count_Device_ID" : 341
+		},
+		{
+			"sum(Hourly_Flow)" : 72104,
+			"Description" : "Fishponds Rd OB L2 @ Royate Hill",
+			"Count_Device_ID" : 343
+		},
+		{
+			"sum(Hourly_Flow)" : 101552,
+			"Description" : "Fishponds Rd OB L1 @ Royate Hill",
+			"Count_Device_ID" : 345
+		},
+		{
+			"sum(Hourly_Flow)" : 4912,
+			"Description" : "Fishponds Rd IB L2 @ Royate Hill",
+			"Count_Device_ID" : 346
+		},
+		{
+			"sum(Hourly_Flow)" : 108608,
+			"Description" : "Fishponds Rd IB L1 @ Royate Hill",
+			"Count_Device_ID" : 348
+		},
+		{
+			"sum(Hourly_Flow)" : 73040,
+			"Description" : "Royate Hill IB @ Fishponds Rd",
+			"Count_Device_ID" : 349
+		},
+		{
+			"sum(Hourly_Flow)" : 54688,
+			"Description" : "Lodge Causeway WB @ Fishponds Rd",
+			"Count_Device_ID" : 351
+		},
+		{
+			"sum(Hourly_Flow)" : 83192,
+			"Description" : "Fishponds Rd OB @ Grove Rd",
+			"Count_Device_ID" : 352
+		},
+		{
+			"sum(Hourly_Flow)" : 90368,
+			"Description" : "Fishpond Rd OB @ Stoke View Rd",
+			"Count_Device_ID" : 353
+		},
+		{
+			"sum(Hourly_Flow)" : 63600,
+			"Description" : "Fishponds Rd OB L1 @ Lodge Cway",
+			"Count_Device_ID" : 354
+		},
+		{
+			"sum(Hourly_Flow)" : 31112,
+			"Description" : "Fishponds Rd OB L2 @ Lodge Cway",
+			"Count_Device_ID" : 356
+		},
+		{
+			"sum(Hourly_Flow)" : 94704,
+			"Description" : "Fishponds Rd IB @ Alexandra Park",
+			"Count_Device_ID" : 358
+		},
+		{
+			"sum(Hourly_Flow)" : 86944,
+			"Description" : "Fishponds Rd OB @ Alexandra Park",
+			"Count_Device_ID" : 359
+		},
+		{
+			"sum(Hourly_Flow)" : 23416,
+			"Description" : "Hockeys Lane NB L1 @Fishponds Rd",
+			"Count_Device_ID" : 360
+		},
+		{
+			"sum(Hourly_Flow)" : 15192,
+			"Description" : "Hockeys Lane NB L2 @Fishponds Rd",
+			"Count_Device_ID" : 362
+		},
+		{
+			"sum(Hourly_Flow)" : 71744,
+			"Description" : "Fishponds Rd OB @ Hockeys Lane",
+			"Count_Device_ID" : 363
+		},
+		{
+			"sum(Hourly_Flow)" : 86696,
+			"Description" : "Fishponds Rd IB @ Channons Hill",
+			"Count_Device_ID" : 364
+		},
+		{
+			"sum(Hourly_Flow)" : 74664,
+			"Description" : "Fishponds Rd OB @ Morrisons",
+			"Count_Device_ID" : 365
+		},
+		{
+			"sum(Hourly_Flow)" : 60936,
+			"Description" : "Fishponds Rd IB @ Morrisons",
+			"Count_Device_ID" : 366
+		},
+		{
+			"sum(Hourly_Flow)" : 68640,
+			"Description" : "Fishponds Rd OB @ Hinton Rd",
+			"Count_Device_ID" : 368
+		},
+		{
+			"sum(Hourly_Flow)" : 78088,
+			"Description" : "Fishponds Rd IB @ Beechwood Rd",
+			"Count_Device_ID" : 369
+		},
+		{
+			"sum(Hourly_Flow)" : 69016,
+			"Description" : "Fishponds Rd OB @ Beechwood Rd",
+			"Count_Device_ID" : 370
+		},
+		{
+			"sum(Hourly_Flow)" : 60384,
+			"Description" : "Fishponds Rd OB L2 @ Manor Rd",
+			"Count_Device_ID" : 371
+		},
+		{
+			"sum(Hourly_Flow)" : 7936,
+			"Description" : "Fishponds Rd OB L1 @ Manor Rd",
+			"Count_Device_ID" : 373
+		},
+		{
+			"sum(Hourly_Flow)" : 32064,
+			"Description" : "Manor Rd SB @ Fishponds Rd",
+			"Count_Device_ID" : 374
+		},
+		{
+			"sum(Hourly_Flow)" : 83672,
+			"Description" : "Fishponds Rd OB @ Straits Parade",
+			"Count_Device_ID" : 375
+		},
+		{
+			"sum(Hourly_Flow)" : 59024,
+			"Description" : "Fishponds Rd IB L1 @ Manor Rd",
+			"Count_Device_ID" : 376
+		},
+		{
+			"sum(Hourly_Flow)" : 19032,
+			"Description" : "Fishponds Rd IB L2 @ Manor Rd",
+			"Count_Device_ID" : 378
+		},
+		{
+			"sum(Hourly_Flow)" : 78632,
+			"Description" : "Fishponds Rd IB @ Manor Rd",
+			"Count_Device_ID" : 379
+		},
+		{
+			"sum(Hourly_Flow)" : 62920,
+			"Description" : "Fishponds Rd OB @ Straits Parade",
+			"Count_Device_ID" : 380
+		},
+		{
+			"sum(Hourly_Flow)" : 95008,
+			"Description" : "Fishponds Rd IB @ Straits Parade",
+			"Count_Device_ID" : 381
+		},
+		{
+			"sum(Hourly_Flow)" : 40384,
+			"Description" : "Fishponds Rd OB L2 @ Downend Rd",
+			"Count_Device_ID" : 382
+		},
+		{
+			"sum(Hourly_Flow)" : 44344,
+			"Description" : "Downend Rd IB @ Fishponds Rd",
+			"Count_Device_ID" : 383
+		},
+		{
+			"sum(Hourly_Flow)" : 44000,
+			"Description" : "Staple Hill Rd IB @ Fishponds Rd",
+			"Count_Device_ID" : 384
+		},
+		{
+			"sum(Hourly_Flow)" : 46056,
+			"Description" : "Staple Hill Rd OB @ Fishponds Rd",
+			"Count_Device_ID" : 385
+		},
+		{
+			"sum(Hourly_Flow)" : 84432,
+			"Description" : "Fishponds Rd IB @ Downend Rd",
+			"Count_Device_ID" : 386
+		},
+		{
+			"sum(Hourly_Flow)" : 38456,
+			"Description" : "Church Rd OB @ Avonvale Rd",
+			"Count_Device_ID" : 387
+		},
+		{
+			"sum(Hourly_Flow)" : 16840,
+			"Description" : "Church Rd IB @ Avonvale Rd",
+			"Count_Device_ID" : 388
+		},
+		{
+			"sum(Hourly_Flow)" : 17488,
+			"Description" : "Avonvale Rd NB @ Church Rd",
+			"Count_Device_ID" : 389
+		},
+		{
+			"sum(Hourly_Flow)" : 103024,
+			"Description" : "Church Rd IB @ Cossham Rd",
+			"Count_Device_ID" : 390
+		},
+		{
+			"sum(Hourly_Flow)" : 64440,
+			"Description" : "Church Rd IB @ Chalks Rd",
+			"Count_Device_ID" : 391
+		},
+		{
+			"sum(Hourly_Flow)" : 41928,
+			"Description" : "Blackswarth Rd NB @ Church Rd",
+			"Count_Device_ID" : 392
+		},
+		{
+			"sum(Hourly_Flow)" : 49896,
+			"Description" : "Chalks Rd SB @ Church Rd",
+			"Count_Device_ID" : 393
+		},
+		{
+			"sum(Hourly_Flow)" : 46464,
+			"Description" : "Clouds Hill OB @ Church Rd",
+			"Count_Device_ID" : 394
+		},
+		{
+			"sum(Hourly_Flow)" : 63192,
+			"Description" : "Clouds Hill Rd IB @ Church Rd",
+			"Count_Device_ID" : 395
+		},
+		{
+			"sum(Hourly_Flow)" : 47064,
+			"Description" : "Summer Hill Rd OB @ Church Rd",
+			"Count_Device_ID" : 396
+		},
+		{
+			"sum(Hourly_Flow)" : 47840,
+			"Description" : "Church Rd OB L1 @ Clouds Hill Rd",
+			"Count_Device_ID" : 397
+		},
+		{
+			"sum(Hourly_Flow)" : 94360,
+			"Description" : "Church Rd IB @ Clouds Hill Rd",
+			"Count_Device_ID" : 399
+		},
+		{
+			"sum(Hourly_Flow)" : 41856,
+			"Description" : "Church Rd OB @ Roseberry Park",
+			"Count_Device_ID" : 401
+		},
+		{
+			"sum(Hourly_Flow)" : 37376,
+			"Description" : "Church Rd IB @ Roseberry Park",
+			"Count_Device_ID" : 402
+		},
+		{
+			"sum(Hourly_Flow)" : 64664,
+			"Description" : "Church Rd IB @ Weight Rd Puffin",
+			"Count_Device_ID" : 403
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Church Rd IB @ Earl Russell Way",
+			"Count_Device_ID" : 404
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Church Rd OB @ Earl Russell Way",
+			"Count_Device_ID" : 405
+		},
+		{
+			"sum(Hourly_Flow)" : 82928,
+			"Description" : "Church Rd OB @ Ducie Rd",
+			"Count_Device_ID" : 406
+		},
+		{
+			"sum(Hourly_Flow)" : 66304,
+			"Description" : "Church Rd OB @ Russell Town Ave",
+			"Count_Device_ID" : 407
+		},
+		{
+			"sum(Hourly_Flow)" : 93704,
+			"Description" : "Church Rd IB @ Russell Town Ave",
+			"Count_Device_ID" : 408
+		},
+		{
+			"sum(Hourly_Flow)" : 29360,
+			"Description" : "Russell Town Ave SB @ Church Rd",
+			"Count_Device_ID" : 409
+		},
+		{
+			"sum(Hourly_Flow)" : 61136,
+			"Description" : "Church Rd IB @ Edward Rd",
+			"Count_Device_ID" : 411
+		},
+		{
+			"sum(Hourly_Flow)" : 90256,
+			"Description" : "Church Rd OB @ Morton St",
+			"Count_Device_ID" : 412
+		},
+		{
+			"sum(Hourly_Flow)" : 58832,
+			"Description" : "Summer Hill Rd IB @ The Avenue",
+			"Count_Device_ID" : 413
+		},
+		{
+			"sum(Hourly_Flow)" : 121136,
+			"Description" : "Wells Rd OB @ Three Lamps",
+			"Count_Device_ID" : 414
+		},
+		{
+			"sum(Hourly_Flow)" : 70944,
+			"Description" : "Bath Rd IB @ Three Lamps",
+			"Count_Device_ID" : 415
+		},
+		{
+			"sum(Hourly_Flow)" : 14264,
+			"Description" : "Bath Bridge IB L1 @ Three Lamps",
+			"Count_Device_ID" : 416
+		},
+		{
+			"sum(Hourly_Flow)" : 141472,
+			"Description" : "Bath Bridge IB L2 @ Three Lamps",
+			"Count_Device_ID" : 418
+		},
+		{
+			"sum(Hourly_Flow)" : 77104,
+			"Description" : "Wells Rd IB @ New Walls",
+			"Count_Device_ID" : 420
+		},
+		{
+			"sum(Hourly_Flow)" : 124032,
+			"Description" : "Wells Rd OB @ New Walls",
+			"Count_Device_ID" : 421
+		},
+		{
+			"sum(Hourly_Flow)" : 96064,
+			"Description" : "Wells Rd IB @ St Johns Lane",
+			"Count_Device_ID" : 424
+		},
+		{
+			"sum(Hourly_Flow)" : 84656,
+			"Description" : "Wells Rd OB @ St Johns Lane",
+			"Count_Device_ID" : 425
+		},
+		{
+			"sum(Hourly_Flow)" : 13136,
+			"Description" : "St Johns Lane Rt @ Wells Rd",
+			"Count_Device_ID" : 426
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "St Johns Lane Lft @ Wells Rd",
+			"Count_Device_ID" : 427
+		},
+		{
+			"sum(Hourly_Flow)" : 66520,
+			"Description" : "Wells Rd OB L1 @ St Johns Lane",
+			"Count_Device_ID" : 428
+		},
+		{
+			"sum(Hourly_Flow)" : 51072,
+			"Description" : "Wells Rd OB L2 @ St Johns Lane",
+			"Count_Device_ID" : 430
+		},
+		{
+			"sum(Hourly_Flow)" : 69392,
+			"Description" : "St Johns Lane WB @ Wells Rd",
+			"Count_Device_ID" : 431
+		},
+		{
+			"sum(Hourly_Flow)" : 78760,
+			"Description" : "Wells Rd OB @ School Rd",
+			"Count_Device_ID" : 432
+		},
+		{
+			"sum(Hourly_Flow)" : 80496,
+			"Description" : "Wells Rd IB L1 @ Broad Walk",
+			"Count_Device_ID" : 433
+		},
+		{
+			"sum(Hourly_Flow)" : 15032,
+			"Description" : "Wells Rd IB L2 @ Broad Walk",
+			"Count_Device_ID" : 435
+		},
+		{
+			"sum(Hourly_Flow)" : 29824,
+			"Description" : "Broad Walk WB @ Wells Rd",
+			"Count_Device_ID" : 436
+		},
+		{
+			"sum(Hourly_Flow)" : 28464,
+			"Description" : "Broad Walk EB L1 @ Wells Rd",
+			"Count_Device_ID" : 437
+		},
+		{
+			"sum(Hourly_Flow)" : 14616,
+			"Description" : "Broad Walk EB L2 @ Wells Rd",
+			"Count_Device_ID" : 439
+		},
+		{
+			"sum(Hourly_Flow)" : 74520,
+			"Description" : "Wells Rd IB @ Broad Walk",
+			"Count_Device_ID" : 440
+		},
+		{
+			"sum(Hourly_Flow)" : 24584,
+			"Description" : "Priory Rd WB @ Wells Rd",
+			"Count_Device_ID" : 441
+		},
+		{
+			"sum(Hourly_Flow)" : 68360,
+			"Description" : "Wells Rd OB @ Callington Rd",
+			"Count_Device_ID" : 444
+		},
+		{
+			"sum(Hourly_Flow)" : 54600,
+			"Description" : "Wells Rd IB @ West Town Lane",
+			"Count_Device_ID" : 445
+		},
+		{
+			"sum(Hourly_Flow)" : 58744,
+			"Description" : "West Town Lane WB @ Wells Rd",
+			"Count_Device_ID" : 446
+		},
+		{
+			"sum(Hourly_Flow)" : 67416,
+			"Description" : "Hengrove Lane EB @ Wells Rd",
+			"Count_Device_ID" : 447
+		},
+		{
+			"sum(Hourly_Flow)" : 41248,
+			"Description" : "Totterdown Bridge NB @ Bath Rd",
+			"Count_Device_ID" : 449
+		},
+		{
+			"sum(Hourly_Flow)" : 71056,
+			"Description" : "Totterdown Bridge SB @ Bath Rd",
+			"Count_Device_ID" : 450
+		},
+		{
+			"sum(Hourly_Flow)" : 48256,
+			"Description" : "Bath Rd OB @ Totterdown Bridge",
+			"Count_Device_ID" : 451
+		},
+		{
+			"sum(Hourly_Flow)" : 62632,
+			"Description" : "Bath Rd IB @ Totterdown Bridge",
+			"Count_Device_ID" : 452
+		},
+		{
+			"sum(Hourly_Flow)" : 78248,
+			"Description" : "Bath Rd IB @ Angers Rd",
+			"Count_Device_ID" : 453
+		},
+		{
+			"sum(Hourly_Flow)" : 44464,
+			"Description" : "Bath Rd IB @ Totterdown Bridge",
+			"Count_Device_ID" : 454
+		},
+		{
+			"sum(Hourly_Flow)" : 87800,
+			"Description" : "Hotwell Rd OB @ Mardyke Inn",
+			"Count_Device_ID" : 455
+		},
+		{
+			"sum(Hourly_Flow)" : 13744,
+			"Description" : "Hotwell Rd IB L1 @ Bristol Gate",
+			"Count_Device_ID" : 458
+		},
+		{
+			"sum(Hourly_Flow)" : 10800,
+			"Description" : "Hotwell Rd IB L2 @ Bristol Gate",
+			"Count_Device_ID" : 460
+		},
+		{
+			"sum(Hourly_Flow)" : 40024,
+			"Description" : "Bristol Gate IB L1 @ Hotwell Rd",
+			"Count_Device_ID" : 461
+		},
+		{
+			"sum(Hourly_Flow)" : 51400,
+			"Description" : "Bristol Gate IB L2 @ Hotwell Rd",
+			"Count_Device_ID" : 463
+		},
+		{
+			"sum(Hourly_Flow)" : 7304,
+			"Description" : "Faraday Rd IB L1 @ Bristol Gate",
+			"Count_Device_ID" : 464
+		},
+		{
+			"sum(Hourly_Flow)" : 4768,
+			"Description" : "Faraday Rd IB L2 @ Bristol Gate",
+			"Count_Device_ID" : 466
+		},
+		{
+			"sum(Hourly_Flow)" : 33712,
+			"Description" : "Henbury Rd NB @ Falcondale Rd",
+			"Count_Device_ID" : 467
+		},
+		{
+			"sum(Hourly_Flow)" : 24952,
+			"Description" : "Henbury Rd SB @ Falcondale Rd",
+			"Count_Device_ID" : 468
+		},
+		{
+			"sum(Hourly_Flow)" : 45032,
+			"Description" : "Falcondale Rd SB L2 @ Canford Rd",
+			"Count_Device_ID" : 469
+		},
+		{
+			"sum(Hourly_Flow)" : 58760,
+			"Description" : "Falcondale Rd SB L1 @ Canford Rd",
+			"Count_Device_ID" : 471
+		},
+		{
+			"sum(Hourly_Flow)" : 29664,
+			"Description" : "Canford Rd EB @ Falcondale Rd",
+			"Count_Device_ID" : 472
+		},
+		{
+			"sum(Hourly_Flow)" : 22112,
+			"Description" : "Canford Ln EB @ Falcondale Rd",
+			"Count_Device_ID" : 473
+		},
+		{
+			"sum(Hourly_Flow)" : 24752,
+			"Description" : "Canford Ln OB @ Falcondale Rd",
+			"Count_Device_ID" : 474
+		},
+		{
+			"sum(Hourly_Flow)" : 14272,
+			"Description" : "Mag Hotwell Rd IB L1@ Bristol Gt",
+			"Count_Device_ID" : 475
+		},
+		{
+			"sum(Hourly_Flow)" : 10584,
+			"Description" : "Mag Hotwell Rd IB L2@ Bristol Gt",
+			"Count_Device_ID" : 477
+		},
+		{
+			"sum(Hourly_Flow)" : 42632,
+			"Description" : "Mag Bristol Gt IB L1@ Hotwell Rd",
+			"Count_Device_ID" : 478
+		},
+		{
+			"sum(Hourly_Flow)" : 49064,
+			"Description" : "Mag Bristol Gt IB L2@ Hotwell Rd",
+			"Count_Device_ID" : 480
+		},
+		{
+			"sum(Hourly_Flow)" : 7120,
+			"Description" : "Mag Faraday IB L1 @ Bristol Gate",
+			"Count_Device_ID" : 481
+		},
+		{
+			"sum(Hourly_Flow)" : 4696,
+			"Description" : "Mag Faraday IB L2 @ Bristol Gate",
+			"Count_Device_ID" : 483
+		},
+		{
+			"sum(Hourly_Flow)" : 16656,
+			"Description" : "Filton Ave NB @ Gloucester Rd",
+			"Count_Device_ID" : 484
+		},
+		{
+			"sum(Hourly_Flow)" : 46408,
+			"Description" : "Gloucester Rd OB @ Filton Ave",
+			"Count_Device_ID" : 485
+		},
+		{
+			"sum(Hourly_Flow)" : 45816,
+			"Description" : "Gloucester Rd IB @ Filton Ave",
+			"Count_Device_ID" : 486
+		},
+		{
+			"sum(Hourly_Flow)" : 27880,
+			"Description" : "Filton Ave IB @ Gloucester Rd",
+			"Count_Device_ID" : 487
+		},
+		{
+			"sum(Hourly_Flow)" : 74248,
+			"Description" : "Gloucester Rd IB @ Crofton Ave",
+			"Count_Device_ID" : 488
+		},
+		{
+			"sum(Hourly_Flow)" : 22440,
+			"Description" : "Gloucester Rd OB @ Muller Rd",
+			"Count_Device_ID" : 489
+		},
+		{
+			"sum(Hourly_Flow)" : 63672,
+			"Description" : "Muller Rd WB @ Filton Ave",
+			"Count_Device_ID" : 490
+		},
+		{
+			"sum(Hourly_Flow)" : 67728,
+			"Description" : "Muller Rd EB @ Filton Ave",
+			"Count_Device_ID" : 491
+		},
+		{
+			"sum(Hourly_Flow)" : 35848,
+			"Description" : "Filton Ave SB @ Muller Rd",
+			"Count_Device_ID" : 492
+		},
+		{
+			"sum(Hourly_Flow)" : 2016,
+			"Description" : "Filton Ave NB @ Muller Rd",
+			"Count_Device_ID" : 493
+		},
+		{
+			"sum(Hourly_Flow)" : 45792,
+			"Description" : "Muller Rd WB @ Filton Ave",
+			"Count_Device_ID" : 494
+		},
+		{
+			"sum(Hourly_Flow)" : 81448,
+			"Description" : "Muller Rd EB @ Heath Rd",
+			"Count_Device_ID" : 495
+		},
+		{
+			"sum(Hourly_Flow)" : 79224,
+			"Description" : "Muller Rd WB @ Eastgate Rd",
+			"Count_Device_ID" : 496
+		},
+		{
+			"sum(Hourly_Flow)" : 98456,
+			"Description" : "Muller Rd EB @ Dormer Rd",
+			"Count_Device_ID" : 497
+		},
+		{
+			"sum(Hourly_Flow)" : 21936,
+			"Description" : "Glenfrome Rd NB @ Muller Rd",
+			"Count_Device_ID" : 498
+		},
+		{
+			"sum(Hourly_Flow)" : 80760,
+			"Description" : "Gloucester Rd IB @Bartholomew Sq",
+			"Count_Device_ID" : 499
+		},
+		{
+			"sum(Hourly_Flow)" : 81288,
+			"Description" : "Gloucester Rd OB @ Dorian Rd",
+			"Count_Device_ID" : 501
+		},
+		{
+			"sum(Hourly_Flow)" : 95904,
+			"Description" : "Gloucester Rd IB @ Wessex Ave",
+			"Count_Device_ID" : 502
+		},
+		{
+			"sum(Hourly_Flow)" : 42888,
+			"Description" : "Dorian Rd EB @ Gloucester Rd",
+			"Count_Device_ID" : 503
+		},
+		{
+			"sum(Hourly_Flow)" : 32928,
+			"Description" : "Dorian Rd EB @ Bishopthorpe Rd",
+			"Count_Device_ID" : 504
+		},
+		{
+			"sum(Hourly_Flow)" : 68888,
+			"Description" : "Filton Rd OB @ Monks Park Ave",
+			"Count_Device_ID" : 505
+		},
+		{
+			"sum(Hourly_Flow)" : 72440,
+			"Description" : "Filton Rd IB @ Montreal Ave",
+			"Count_Device_ID" : 506
+		},
+		{
+			"sum(Hourly_Flow)" : 22408,
+			"Description" : "Toronto Rd WB @ Filton Rd",
+			"Count_Device_ID" : 507
+		},
+		{
+			"sum(Hourly_Flow)" : 76232,
+			"Description" : "Filton Rd IB @ Toronto Rd",
+			"Count_Device_ID" : 508
+		},
+		{
+			"sum(Hourly_Flow)" : 77944,
+			"Description" : "Filton Rd OB @ Boston Rd",
+			"Count_Device_ID" : 509
+		},
+		{
+			"sum(Hourly_Flow)" : 46432,
+			"Description" : "Monks Park Ave WB @ Filton Rd",
+			"Count_Device_ID" : 510
+		},
+		{
+			"sum(Hourly_Flow)" : 55920,
+			"Description" : "Monks Park Ave EB @ Filton Rd",
+			"Count_Device_ID" : 511
+		},
+		{
+			"sum(Hourly_Flow)" : 45880,
+			"Description" : "West Town Lane EB @Callington Rd",
+			"Count_Device_ID" : 514
+		},
+		{
+			"sum(Hourly_Flow)" : 42696,
+			"Description" : "Callington Rd EB L1 West Town Ln",
+			"Count_Device_ID" : 515
+		},
+		{
+			"sum(Hourly_Flow)" : 44720,
+			"Description" : "Callington Rd EB L2 West Town Ln",
+			"Count_Device_ID" : 517
+		},
+		{
+			"sum(Hourly_Flow)" : 87584,
+			"Description" : "Bath Rd IB L2 @ West Town Lane",
+			"Count_Device_ID" : 519
+		},
+		{
+			"sum(Hourly_Flow)" : 49064,
+			"Description" : "Bath Rd IB L1 @ West Town Lane",
+			"Count_Device_ID" : 521
+		},
+		{
+			"sum(Hourly_Flow)" : 67064,
+			"Description" : "Bath Rd OB L3 @ Glenarm Rd",
+			"Count_Device_ID" : 522
+		},
+		{
+			"sum(Hourly_Flow)" : 72424,
+			"Description" : "Bath Rd OB L2 @ Glenarm Rd",
+			"Count_Device_ID" : 524
+		},
+		{
+			"sum(Hourly_Flow)" : 7560,
+			"Description" : "Bath Rd OB L1 @ West Town Lane",
+			"Count_Device_ID" : 525
+		},
+		{
+			"sum(Hourly_Flow)" : 123496,
+			"Description" : "Bath Rd OB L2 @ West Town Lane",
+			"Count_Device_ID" : 527
+		},
+		{
+			"sum(Hourly_Flow)" : 3512,
+			"Description" : "Bath Rd OB L1 @ Glenarm Rd",
+			"Count_Device_ID" : 529
+		},
+		{
+			"sum(Hourly_Flow)" : 12440,
+			"Description" : "Bath Rd OB L2 @ Flowers Hill",
+			"Count_Device_ID" : 531
+		},
+		{
+			"sum(Hourly_Flow)" : 129104,
+			"Description" : "Bath Rd OB @ Flowers Hill",
+			"Count_Device_ID" : 532
+		},
+		{
+			"sum(Hourly_Flow)" : 10072,
+			"Description" : "Flowers Hill NB L2 @ Bath Rd",
+			"Count_Device_ID" : 533
+		},
+		{
+			"sum(Hourly_Flow)" : 54400,
+			"Description" : "Bath Rd IB L1 @ Emery Rd",
+			"Count_Device_ID" : 534
+		},
+		{
+			"sum(Hourly_Flow)" : 86648,
+			"Description" : "Bath Rd IB L2 @ Emery Rd",
+			"Count_Device_ID" : 536
+		},
+		{
+			"sum(Hourly_Flow)" : 7160,
+			"Description" : "Bath Rd OB L3 @ Emery Rd",
+			"Count_Device_ID" : 537
+		},
+		{
+			"sum(Hourly_Flow)" : 27528,
+			"Description" : "Bath Rd IB L3 @ Emery Rd",
+			"Count_Device_ID" : 539
+		},
+		{
+			"sum(Hourly_Flow)" : 16416,
+			"Description" : "Emery Rd IB L1 @ Bath Rd",
+			"Count_Device_ID" : 540
+		},
+		{
+			"sum(Hourly_Flow)" : 37072,
+			"Description" : "Emery Rd IB L2 @ Bath Rd",
+			"Count_Device_ID" : 542
+		},
+		{
+			"sum(Hourly_Flow)" : 18488,
+			"Description" : "Stockwood Ln NB L1 @ Bath Rd",
+			"Count_Device_ID" : 543
+		},
+		{
+			"sum(Hourly_Flow)" : 15152,
+			"Description" : "Stockwood Ln NB L2 @ Bath Rd",
+			"Count_Device_ID" : 545
+		},
+		{
+			"sum(Hourly_Flow)" : 91544,
+			"Description" : "Bath Rd OB L1 @ Emery Rd",
+			"Count_Device_ID" : 546
+		},
+		{
+			"sum(Hourly_Flow)" : 3168,
+			"Description" : "Bath Rd IB L1 @ P&R Exit",
+			"Count_Device_ID" : 547
+		},
+		{
+			"sum(Hourly_Flow)" : 142872,
+			"Description" : "Bath Rd IB L2 @ P&R Exit",
+			"Count_Device_ID" : 549
+		},
+		{
+			"sum(Hourly_Flow)" : 4696,
+			"Description" : "Bath Rd IB L1 @ Long Fox Manor",
+			"Count_Device_ID" : 552
+		},
+		{
+			"sum(Hourly_Flow)" : 148840,
+			"Description" : "Bath Rd IB L2 @ Long Fox Manor",
+			"Count_Device_ID" : 554
+		},
+		{
+			"sum(Hourly_Flow)" : 328,
+			"Description" : "P&R Exit L1 @ Bath Rd",
+			"Count_Device_ID" : 555
+		},
+		{
+			"sum(Hourly_Flow)" : 664,
+			"Description" : "P&R Exit L2 @ Bath Rd",
+			"Count_Device_ID" : 557
+		},
+		{
+			"sum(Hourly_Flow)" : 1192,
+			"Description" : "P&R Entrance @ Bath Rd",
+			"Count_Device_ID" : 558
+		},
+		{
+			"sum(Hourly_Flow)" : 116304,
+			"Description" : "Bath Rd IB @ Church Hill",
+			"Count_Device_ID" : 559
+		},
+		{
+			"sum(Hourly_Flow)" : 68880,
+			"Description" : "Durley Hill NB @ Hicks Gate RAB",
+			"Count_Device_ID" : 560
+		},
+		{
+			"sum(Hourly_Flow)" : 1696,
+			"Description" : "P&R Entrance @ Stockwood Ln",
+			"Count_Device_ID" : 561
+		},
+		{
+			"sum(Hourly_Flow)" : 1976,
+			"Description" : "P&R Exit @ Stockwood Lane",
+			"Count_Device_ID" : 562
+		},
+		{
+			"sum(Hourly_Flow)" : 72120,
+			"Description" : "Bath Rd OB L2 @ Emery Rd",
+			"Count_Device_ID" : 563
+		},
+		{
+			"sum(Hourly_Flow)" : 200992,
+			"Description" : "Hartcliffe Way NB @Imperial Park",
+			"Count_Device_ID" : 564
+		},
+		{
+			"sum(Hourly_Flow)" : 140816,
+			"Description" : "Hartcliffe Way SB @Imperial Park",
+			"Count_Device_ID" : 565
+		},
+		{
+			"sum(Hourly_Flow)" : 134296,
+			"Description" : "Hengrove Way EB @ Hartcliffe RAB",
+			"Count_Device_ID" : 566
+		},
+		{
+			"sum(Hourly_Flow)" : 160320,
+			"Description" : "Hengrove Way WB @ Hartcliffe RAB",
+			"Count_Device_ID" : 567
+		},
+		{
+			"sum(Hourly_Flow)" : 82456,
+			"Description" : "Whitchurch Ln NB @Hartcliffe RAB",
+			"Count_Device_ID" : 568
+		},
+		{
+			"sum(Hourly_Flow)" : 75208,
+			"Description" : "Whitchurch Ln SB @Hartcliffe RAB",
+			"Count_Device_ID" : 569
+		},
+		{
+			"sum(Hourly_Flow)" : 63096,
+			"Description" : "Hawkfield Rd NB @ Hartcliffe RAB",
+			"Count_Device_ID" : 570
+		},
+		{
+			"sum(Hourly_Flow)" : 112584,
+			"Description" : "Hawkfield Rd SB @ Hartcliffe RAB",
+			"Count_Device_ID" : 572
+		},
+		{
+			"sum(Hourly_Flow)" : 97696,
+			"Description" : "Hengrove Way WB @ Hartcliffe RAB",
+			"Count_Device_ID" : 573
+		},
+		{
+			"sum(Hourly_Flow)" : 149328,
+			"Description" : "Hengrove Way EB @ Hartcliffe RAB",
+			"Count_Device_ID" : 574
+		},
+		{
+			"sum(Hourly_Flow)" : 12488,
+			"Description" : "Hengrove Way EB L1 @ Hartcliffe",
+			"Count_Device_ID" : 575
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Hengrove Way WB L1 @ Cineworld",
+			"Count_Device_ID" : 576
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Hengrove Way WB L2 @ Cineworld",
+			"Count_Device_ID" : 577
+		},
+		{
+			"sum(Hourly_Flow)" : 20952,
+			"Description" : "Hengrove Way EB Rt @ Cineworld",
+			"Count_Device_ID" : 578
+		},
+		{
+			"sum(Hourly_Flow)" : 16000,
+			"Description" : "Roman Farm Rd @ Hengrove Way",
+			"Count_Device_ID" : 579
+		},
+		{
+			"sum(Hourly_Flow)" : 10544,
+			"Description" : "Hengrove Way WB Rt @ Roman F Rd",
+			"Count_Device_ID" : 580
+		},
+		{
+			"sum(Hourly_Flow)" : 2400,
+			"Description" : "Hengrove Way WB Rt @ Filwood Pk",
+			"Count_Device_ID" : 581
+		},
+		{
+			"sum(Hourly_Flow)" : 4232,
+			"Description" : "Filwood Park SB @ Hengrove Way",
+			"Count_Device_ID" : 582
+		},
+		{
+			"sum(Hourly_Flow)" : 56192,
+			"Description" : "Hengrove Way EB L1@ Filwood Park",
+			"Count_Device_ID" : 583
+		},
+		{
+			"sum(Hourly_Flow)" : 66512,
+			"Description" : "Hengrove Way EB L2@ Filwood Park",
+			"Count_Device_ID" : 584
+		},
+		{
+			"sum(Hourly_Flow)" : 44392,
+			"Description" : "St Philips Cway SB L1 @ Bath Rd",
+			"Count_Device_ID" : 586
+		},
+		{
+			"sum(Hourly_Flow)" : 103648,
+			"Description" : "Bath Rd OB @ Sandy Park Rd",
+			"Count_Device_ID" : 588
+		},
+		{
+			"sum(Hourly_Flow)" : 89176,
+			"Description" : "St Philips Cway SB L2 @ Bath Rd",
+			"Count_Device_ID" : 589
+		},
+		{
+			"sum(Hourly_Flow)" : 69816,
+			"Description" : "Bath Rd IB @ St Philips Cway",
+			"Count_Device_ID" : 590
+		},
+		{
+			"sum(Hourly_Flow)" : 41616,
+			"Description" : "Sandy Park Rd WB @ Bath Rd",
+			"Count_Device_ID" : 591
+		},
+		{
+			"sum(Hourly_Flow)" : 47608,
+			"Description" : "Sandy Park Rd EB @ Bath Rd",
+			"Count_Device_ID" : 592
+		},
+		{
+			"sum(Hourly_Flow)" : 126656,
+			"Description" : "St Philips Cway NB @ Bath Rd",
+			"Count_Device_ID" : 594
+		},
+		{
+			"sum(Hourly_Flow)" : 108992,
+			"Description" : "Bath Rd OB @ Kings Rd",
+			"Count_Device_ID" : 595
+		},
+		{
+			"sum(Hourly_Flow)" : 99768,
+			"Description" : "Bath Rd OB @ Tramways",
+			"Count_Device_ID" : 598
+		},
+		{
+			"sum(Hourly_Flow)" : 99528,
+			"Description" : "Bath Rd IB Right into Tramway Rd",
+			"Count_Device_ID" : 599
+		},
+		{
+			"sum(Hourly_Flow)" : 136376,
+			"Description" : "Bath Rd OB @ Tramway Rd Exit",
+			"Count_Device_ID" : 600
+		},
+		{
+			"sum(Hourly_Flow)" : 22344,
+			"Description" : "Bath Rd IB Bus Ln @ Tramways Rd",
+			"Count_Device_ID" : 601
+		},
+		{
+			"sum(Hourly_Flow)" : 4952,
+			"Description" : "Bath Rd IB Ln 1 @Tramways Rd",
+			"Count_Device_ID" : 602
+		},
+		{
+			"sum(Hourly_Flow)" : 95704,
+			"Description" : "Bath Rd IB Ln 2 @Tramways Rd",
+			"Count_Device_ID" : 604
+		},
+		{
+			"sum(Hourly_Flow)" : 143640,
+			"Description" : "Tramways Rd @ Bath Rd",
+			"Count_Device_ID" : 605
+		},
+		{
+			"sum(Hourly_Flow)" : 4776,
+			"Description" : "Bath Rd OB @ Kensington Park Rd",
+			"Count_Device_ID" : 606
+		},
+		{
+			"sum(Hourly_Flow)" : 4664,
+			"Description" : "Bath Rd IB @ Tramways Rd exit",
+			"Count_Device_ID" : 607
+		},
+		{
+			"sum(Hourly_Flow)" : 118688,
+			"Description" : "Bath Rd OB @ Grove Park",
+			"Count_Device_ID" : 608
+		},
+		{
+			"sum(Hourly_Flow)" : 29728,
+			"Description" : "",
+			"Count_Device_ID" : 731
+		},
+		{
+			"sum(Hourly_Flow)" : 153904,
+			"Description" : "",
+			"Count_Device_ID" : 732
+		},
+		{
+			"sum(Hourly_Flow)" : 27992,
+			"Description" : "",
+			"Count_Device_ID" : 733
+		},
+		{
+			"sum(Hourly_Flow)" : 85560,
+			"Description" : "ValeLn Toucan @ HartcliffeWay NB",
+			"Count_Device_ID" : 734
+		},
+		{
+			"sum(Hourly_Flow)" : 17432,
+			"Description" : "ValeLn Toucan @ HartcliffeWay SB",
+			"Count_Device_ID" : 737
+		},
+		{
+			"sum(Hourly_Flow)" : 49400,
+			"Description" : "Link Rd EB @ Cornleaze",
+			"Count_Device_ID" : 749
+		},
+		{
+			"sum(Hourly_Flow)" : 79984,
+			"Description" : "Rupert St @ Christmas St",
+			"Count_Device_ID" : 750
+		},
+		{
+			"sum(Hourly_Flow)" : 70232,
+			"Description" : "Rupert St Ln2 @ Christmas St",
+			"Count_Device_ID" : 751
+		},
+		{
+			"sum(Hourly_Flow)" : 68912,
+			"Description" : "King Georges Rd EB @ Queens Rd",
+			"Count_Device_ID" : 752
+		},
+		{
+			"sum(Hourly_Flow)" : 73720,
+			"Description" : "K Georges Rd NB @ Elmtree Dr",
+			"Count_Device_ID" : 753
+		},
+		{
+			"sum(Hourly_Flow)" : 28976,
+			"Description" : "Lewins Mead Ln1 @ Christmas St",
+			"Count_Device_ID" : 754
+		},
+		{
+			"sum(Hourly_Flow)" : 13152,
+			"Description" : "Highridge Rd WB SL @ Highridge",
+			"Count_Device_ID" : 755
+		},
+		{
+			"sum(Hourly_Flow)" : 68016,
+			"Description" : "Highridge Grn SB L1 SL @ Highridge",
+			"Count_Device_ID" : 756
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Stoke Ln L1 @ FrenchayPark Rd",
+			"Count_Device_ID" : 757
+		},
+		{
+			"sum(Hourly_Flow)" : 99216,
+			"Description" : "Whitchurch Rd WB @ Cater Rd",
+			"Count_Device_ID" : 758
+		},
+		{
+			"sum(Hourly_Flow)" : 75776,
+			"Description" : "K Georges Rd NB SL @ Highridge",
+			"Count_Device_ID" : 759
+		},
+		{
+			"sum(Hourly_Flow)" : 42872,
+			"Description" : "Hareclive Rd NB @ Whitland Rd",
+			"Count_Device_ID" : 760
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "Stoke Ln L2 @ FrenchayPark Rd",
+			"Count_Device_ID" : 761
+		},
+		{
+			"sum(Hourly_Flow)" : 13264,
+			"Description" : "Highridge Rd EB @ Four Acres",
+			"Count_Device_ID" : 762
+		},
+		{
+			"sum(Hourly_Flow)" : 60928,
+			"Description" : "Anton Bantock Way WB @ Queens Rd",
+			"Count_Device_ID" : 763
+		},
+		{
+			"sum(Hourly_Flow)" : 11448,
+			"Description" : "Highridge Rd WB @ Wyatt Ave",
+			"Count_Device_ID" : 764
+		},
+		{
+			"sum(Hourly_Flow)" : 68832,
+			"Description" : "Lewins Mead Ln2 @ Christmas St",
+			"Count_Device_ID" : 766
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "FrenchayPark Rd OB L2 @ Stoke Ln",
+			"Count_Device_ID" : 767
+		},
+		{
+			"sum(Hourly_Flow)" : 83816,
+			"Description" : "HayMarket NB @ Lewins Mead",
+			"Count_Device_ID" : 768
+		},
+		{
+			"sum(Hourly_Flow)" : 79200,
+			"Description" : "Highridge Grn SB @ Highridge Rd",
+			"Count_Device_ID" : 769
+		},
+		{
+			"sum(Hourly_Flow)" : 20608,
+			"Description" : "Rupert St Ln1 @ Christmas St",
+			"Count_Device_ID" : 770
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "FrenchayPark Rd IB L1 @ Stoke Ln",
+			"Count_Device_ID" : 771
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "FrenchayPark Rd IB L2 @ Stoke Ln",
+			"Count_Device_ID" : 772
+		},
+		{
+			"sum(Hourly_Flow)" : 64880,
+			"Description" : "Whitchurch Rd EB @ Hareclive Rd",
+			"Count_Device_ID" : 773
+		},
+		{
+			"sum(Hourly_Flow)" : 0,
+			"Description" : "FrenchayPark Rd OB L1 @ Stoke Ln",
+			"Count_Device_ID" : 774
+		},
+		{
+			"sum(Hourly_Flow)" : 9992,
+			"Description" : "Highridge Grn SB L2 SL @ Highridge",
+			"Count_Device_ID" : 775
+		}
+	]
+}
