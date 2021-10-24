@@ -10,7 +10,8 @@ Youtube: https://www.youtube.com/watch?v=oa8Q8JSLsOM
 
 
 ## Screenshot
-![这里写图片描述](https://github.com/Qinzhizhou/SmartCityVisBristol/raw/master/screenshots/index.html_1.png)
-![这里写图片描述](https://github.com/Qinzhizhou/SmartCityVisBristol/raw/master/screenshots/index.html_2.png)
+![The initial page of smart traffic Vis](https://github.com/Qinzhizhou/SmartCityVisBristol/raw/master/screenshots/index.html_1.png)
+![The traffic vis with selected markers](https://github.com/Qinzhizhou/SmartCityVisBristol/raw/master/screenshots/index.html_2.png)
 
 ## Implemtation
+Using Apache XAMPP to set the sever and open the index.html in local.
